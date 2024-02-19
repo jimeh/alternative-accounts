@@ -1,13 +1,13 @@
 # Alternative Accounts
 
-Below is a list of alternative GitHub accounts which I use, and have full
-control over.
+Below is a list of alternative GitHub accounts which I
+([@jimeh](https://github.com/jimeh)) use, and have full control over.
 
-- [`@jimehk`](https://github.com/jimehk)
+- [@jimehk](https://github.com/jimehk)
 
 ## Verification
 
-This document was signed with:
+This document was GPG signed with:
 
 ```bash
 gpg --detach-sign --armor alternative-accounts.md
